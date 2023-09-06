@@ -2,7 +2,7 @@
   "name": "next-crypto-app",
   "version": "0.1.0",
   "engines": {
-    "node": "16.20.0"
+    "node": "<=16.20.1"
   },
   "private": true,
   "scripts": {
